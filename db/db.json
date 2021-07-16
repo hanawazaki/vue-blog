@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Mengecilkan perut dengan olahraga kardio",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius, enim nec interdum placerat, diam metus tristique metus, in sagittis purus lacus vel ex. Suspendisse consectetur lectus sit amet dictum efficitur. Aliquam mollis nisi nibh, sed feugiat elit lacinia quis. Mauris sodales, tortor at luctus sollicitudin, metus nisi mollis lectus, in imperdiet ex turpis et nibh. Mauris accumsan maximus odio, et suscipit mi rutrum vel. Quisque egestas suscipit dolor a rhoncus.",
+      "tags": [
+        "olahraga",
+        "lifestyle",
+        "kesehatan"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Tutorial makeup ala korea",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras varius, enim nec interdum placerat, diam metus tristique metus, in sagittis purus lacus vel ex. Suspendisse consectetur lectus sit amet dictum efficitur. Aliquam mollis nisi nibh, sed feugiat elit lacinia quis. Mauris sodales, tortor at luctus sollicitudin, metus nisi mollis lectus, in imperdiet ex turpis et nibh. Mauris accumsan maximus odio, et suscipit mi rutrum vel. Quisque egestas suscipit dolor a rhoncus.",
+      "tags": [
+        "beauty",
+        "tips",
+        "makeup"
+      ]
+    },
+    {
+      "title": "tips news",
+      "body": "testtesttesttesttesttesttest",
+      "tags": [
+        "tips",
+        "news"
+      ],
+      "id": 3
+    },
+    {
+      "title": "web news",
+      "body": "ascacwasdvsdvs",
+      "tags": [
+        "news",
+        "web"
+      ],
+      "id": 4
+    }
+  ]
+}
